@@ -20,6 +20,16 @@ module.exports = {
             test: /\.css$/i,
             use: ["style-loader", "css-loader"],
         },
+        {
+            // handles images we reference in our HTML template
+            test: /\.html$/i,
+            loader: "html-loader",
+        },
+        {
+            // handles images we reference in our JavaScript
+            test: /\.(png|svg|jpg|jped|gif)$/i,
+            loader: "asset/resource",
+        },
     ],
   },
 };
