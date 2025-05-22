@@ -1,0 +1,9 @@
+{
+    "title": "Welcome to The Ember Spoon",
+    "subtitle": "A Modern Taste of South African Cuisine",
+    "description": "Tucked in the heart of Johannesburg, The Ember Spoon brings a fresh, elegant take on beloved South African classics. From our signature rooibos-braised lamb shank to our spicy chakalaka arancini, each dish is thoughtfully crafted using seasonal, locally-sourced ingredients. Whether you're here for a quiet dinner or a celebratory meal, our warm ambiance and passionate team will make you feel right at home. Join us and rediscover the soul of South African cuisine—one bite at a time.",
+    "heroImage": {
+        "src": "/images/hero.jpg",
+        "alt": "A warm, rustic photo of a plated South African dish or a cozy dining table setting with soft lighting and wine glasses."
+    }
+}
