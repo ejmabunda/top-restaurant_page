@@ -1,0 +1,54 @@
+{
+  "sections": [
+    {
+      "title": "Starters",
+      "items": [
+        {
+          "name": "Chakalaka Arancini",
+          "description": "Crispy risotto balls filled with spicy chakalaka, served with a cooling yogurt dip.",
+          "price": "R65"
+        },
+        {
+          "name": "Biltong Carpaccio",
+          "description": "Thinly sliced cured beef with rocket, parmesan, and a drizzle of olive oil.",
+          "price": "R80"
+        }
+      ]
+    },
+    {
+      "title": "Mains",
+      "items": [
+        {
+          "name": "Rooibos-Braised Lamb Shank",
+          "description": "Slow-cooked lamb shank in a rooibos and tomato gravy, served with creamy pap.",
+          "price": "R195"
+        },
+        {
+          "name": "Cape Malay Chicken Curry",
+          "description": "Tender chicken in a fragrant Cape Malay curry sauce, served with yellow rice and sambals.",
+          "price": "R160"
+        },
+        {
+          "name": "Grilled Kingklip",
+          "description": "Fresh kingklip fillet grilled and served with lemon butter sauce and seasonal vegetables.",
+          "price": "R180"
+        }
+      ]
+    },
+    {
+      "title": "Desserts",
+      "items": [
+        {
+          "name": "Malva Pudding",
+          "description": "Classic South African sponge pudding with apricot jam, served warm with custard.",
+          "price": "R60"
+        },
+        {
+          "name": "Milk Tart",
+          "description": "Traditional creamy milk tart with a dusting of cinnamon.",
+          "price": "R55"
+        }
+      ]
+    }
+  ]
+}
