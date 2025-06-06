@@ -1,0 +1,24 @@
+{
+  "title": "About The Ember Spoon",
+  "img": "https://images.unsplash.com/photo-1485686531765-ba63b07845a7?q=80&w=1167&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "subtitle": "Our Story & Philosophy",
+  "description": "Founded in 2022, The Ember Spoon was born from a passion for celebrating South Africa’s rich culinary heritage in a modern, welcoming setting. Our team is dedicated to sourcing the freshest local ingredients and reimagining traditional recipes with creativity and care. Whether you’re a lifelong local or a first-time visitor, we invite you to experience the warmth, flavors, and hospitality that make our restaurant unique.",
+  "team": [
+    {
+      "name": "Chef Lindiwe Mokoena",
+      "role": "Executive Chef",
+      "bio": "With over 15 years of experience, Chef Lindiwe brings a contemporary flair to classic South African dishes, blending innovation with tradition."
+    },
+    {
+      "name": "Sipho Dlamini",
+      "role": "General Manager",
+      "bio": "Sipho’s commitment to exceptional service ensures every guest feels at home from the moment they arrive."
+    }
+  ],
+  "values": [
+    "Locally sourced, seasonal ingredients",
+    "Sustainable and ethical practices",
+    "Celebrating South African culture",
+    "Warm, attentive hospitality"
+  ]
+}

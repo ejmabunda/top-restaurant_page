@@ -1,7 +1,6 @@
 import content from "./content/menu.json"
 
 export function menu() {
-    document.querySelector("#content").textContent = "";
     for (let i = 0; i < content.sections.length; i++) {
         let section = content.sections[i];
         let category = document.createElement("section");

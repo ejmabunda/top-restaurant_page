@@ -1,9 +1,6 @@
 import content from "./content/home.json";
 
 export function home() {
-    // Clear content
-    document.querySelector("#content").textContent = "";
-
     let h1 = document.createElement("h1");
     h1.textContent = content.title;
     let h2 = document.createElement("h2");
